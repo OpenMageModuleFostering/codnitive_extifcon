@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>Codnitive_Extifcon</name>
-    <version>1.7.20</version>
+    <version>1.7.30</version>
     <stability>stable</stability>
     <license uri="http://www.opensource.org/licenses/gpl-3.0.html">GNU General Public License, version 3 (GPLv3)</license>
     <channel>community</channel>
@@ -12,8 +12,8 @@
     <notes>Before using it in production, first check it in a test environment.&#xD;
 Also make sure you created a backup from your store files and database just before installing the extension.</notes>
     <authors><author><name>Hassan Barza</name><user>hbarza</user><email>support@codnitive.com</email></author></authors>
-    <date>2013-07-04</date>
-    <time>11:42:20</time>
+    <date>2014-10-23</date>
+    <time>22:12:40</time>
     <contents><target name="mageetc"><dir name="modules"><file name="Codnitive_Codall.xml" hash="6b2f701358a66c64dc7e465c9c37b19d"/><file name="Codnitive_Extifcon.xml" hash="d0857d66ad78ee8505f3d51ec35689b6"/></dir></target><target name="magelocal"><dir name="Codnitive"><dir name="Codall"><dir><dir name="Block"><dir name="System"><dir name="Config"><dir name="Form"><dir name="Fieldset"><file name="Contact.php" hash="8106827fe54d4c38b698ba0d7129eba7"/><file name="ECD.php" hash="54786d9d8d3741edd46be1967b4f784f"/><dir name="Extensions"><file name="List.php" hash="133eaf773b7b3d7546c7b0a85a9f05f7"/></dir><file name="PCD.php" hash="c7703442111ea9ede9c757f81a0cce1e"/></dir></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="ed21011f3046ba8eb92bc9d168e816dc"/></dir><dir name="etc"><file name="adminhtml.xml" hash="92141ea9b2a4a3871dc3a441bdca5e67"/><file name="config.xml" hash="0c9f551dde5ccd82639fe0793a54bcce"/><file name="system.xml" hash="c73b95227f8db2bc096ea60dae5ced20"/></dir></dir></dir></dir></target><target name="magelocale"><dir name="en_US"><file name="Codnitive_Codall.csv" hash="b6ef3920c15d91d1af1f4c8a4cef82e9"/><file name="Codnitive_Extifcon.csv" hash="0c7b87419fa86b293e84dfec66c31899"/></dir><dir name="fa_IR"><file name="Codnitive_Codall.csv" hash="486172901415e0278a5fd10c76b0c333"/><file name="Codnitive_Extifcon.csv" hash="708e3b71cf2376104b0db4e4b985df33"/></dir></target><target name="magecommunity"><dir name="Codnitive"><dir name="Extifcon"><dir><dir name="Helper"><file name="Data.php" hash="149e557287d8cded7b0e4d9497db712c"/></dir><dir name="Model"><file name="Compiler.php" hash="0f12034c3944f9599778c6598acc4aa0"/><file name="Config.php" hash="7927c0efebb21b7161a9525dc388e130"/><dir name="Core"><file name="Layout.php" hash="704c3dfcfc7a75b4dc0a3ae4680a21e7"/></dir></dir><dir name="etc"><file name="adminhtml.xml" hash="0777d101c55acacc2d0247c5327f1e55"/><file name="config.xml" hash="7c4d1441c2ab1c733955145c99fece72"/><file name="system.xml" hash="9dbc4ecb1241dbacf6a06a0646297766"/></dir></dir></dir></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
