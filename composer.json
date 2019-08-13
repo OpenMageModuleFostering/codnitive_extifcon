@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Codnitive_Extifcon",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License,-version-3-(GPLv3)",
+    "homepage": "",
+    "description": "Extends action tag's ifconfig attribute in layouts XML to ability using different value types and options as conditions for calling action's method.",
+    "authors": [
+    {
+        "name": "Hassan Barza",
+        "email": "support@codnitive.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
